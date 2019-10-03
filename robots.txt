@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chooshoolu.freefair.io/sitemap.xml
